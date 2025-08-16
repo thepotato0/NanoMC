@@ -1,5 +1,7 @@
 # 🟩 NanoMC
 
+[Under MIT License - free to copy and edit.](https://github.com/skidsploiter/NanoMC/blob/main/LICENSE)
+
 >[!NOTE]
 >NanoMC is __NOT STABLE__ and **NOT MEANT FOR MAIN USAGE**.  
 >This is just made for USBs and people who travel a lot / use for school computers.  
