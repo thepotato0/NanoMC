@@ -43,3 +43,12 @@ Perfect if you just want to hop into 1.8.9 PvP anywhere without waiting for inst
 ---
 
 ## 📂 What’s inside?
+NanoMC/
+├── OpenMC.bat ← start the game from here
+├── mcdata/Java/ ← lightweight java runtime
+└── mcdata/ ← saves, resourcepacks, options
+
+## ⚠️ Notes
+- This is a **portable build**, not an official launcher.  
+- Please support Mojang/Microsoft if you can – this is only a minimal, educational setup.  
+- Best suited for PvP and lightweight use. Performance may vary depending on your system.  
