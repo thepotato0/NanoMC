@@ -27,10 +27,10 @@ Perfect if you just want to hop into 1.8.9 PvP anywhere without waiting for inst
 ---
 
 ## 📂 What’s inside?
-NanoMC/
-├── OpenMC.bat ← start the game from here
-├── mcdata/Java/ ← lightweight java runtime
-└── mcdata/ ← saves, resourcepacks, options
+NanoMC/<br>
+├── OpenMC.bat ← start the game from here <br>
+├── mcdata/Java/ ← lightweight java runtime <br>
+└── mcdata/ ← saves, resourcepacks, options <br>
 
 ---
 
