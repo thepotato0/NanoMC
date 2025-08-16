@@ -1,43 +1,40 @@
 # 🟩 NanoMC
 
-**NanoMC** is a lightweight, portable build of **Minecraft 1.8.9** that runs in under **300MB**.  
-No installation required — just plug, play, and enjoy anywhere.
+>[!NOTE]
+>NanoMC is __NOT STABLE__ and **NOT MEANT FOR MAIN USAGE**. This is just made for USBs and people who travel alot/use for school computers. Educational purposes only, users are responsible for their own usage.
+
+NanoMC is basically **Minecraft 1.8.9 but tiny and portable**.  
+It’s less than **300MB**, runs from a USB stick, and doesn’t need any setup.  
+Perfect if you just want to hop into 1.8.9 PvP anywhere without waiting for installs.
 
 ---
 
-## 🚀 Features
-- 📦 **Portable** – run directly from USB or any folder.
-- ⚡ **Lightweight** – under 300MB total size.
-- 🎮 **Minecraft 1.8.9** – the most popular PvP version.
-- 🔑 **Custom Username** – choose any username at launch.
-- 🖥️ **Easy Launch** – start the game with one click.
+## ✨ Why NanoMC?
+- Runs straight from a folder or USB – no installer, no launcher mess.
+- Comes with its own Java, so you don’t need to install it separately.
+- Slimmed down to under 300MB (vanilla 1.8.9 is bloated compared to this).
+- Just works™ – double-click and play.
 
 ---
 
-## 🛠️ Usage
-1. Download or clone this repository.  
-2. Extract the files to a folder or USB drive.  
+## 🚀 How to use
+1. Download this repo (Code → Download ZIP) or clone it.  
+2. Extract it wherever (Desktop, USB, anywhere).  
 3. Run **`OpenMC.bat`**  
-4. Enter your preferred **username** when prompted.  
-5. Play Minecraft!
+4. Type in the username you want.  
+5. That’s it – Minecraft 1.8.9 will start.
 
 ---
 
-## 📂 Folder Structure
+## 📂 What’s inside?
 NanoMC/
-├── OpenMC.bat # Start script
-├── mcdata/Java/ # Java runtime
-└── mcdata/ # Game files, saves, resourcepacks
+├── OpenMC.bat ← start the game from here
+├── mcdata/Java/ ← lightweight java runtime
+└── mcdata/ ← saves, resourcepacks, options
 
 ---
 
 ## ⚠️ Notes
-- This is a **portable version** intended for convenience and minimal setup.  
-- An official Minecraft account is recommended to support Mojang/Microsoft.  
-- Performance may vary depending on your hardware.  
-
----
-
-## 📜 License
-This project is shared **for educational purposes only**.  
-All rights to **Minecraft** belong to Mojang Studios / Microsoft.
+- This is a **portable build**, not an official launcher.  
+- Support Mojang/Microsoft if you can – this project is just a minimal, portable setup.  
+- Tested mainly for PvP use. Performance may vary by system.
