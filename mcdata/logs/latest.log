@@ -1,0 +1,6 @@
+[20:24:15] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+[20:24:15] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[20:24:15] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[20:24:18] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:24:22] [Client thread/INFO]: Setting user: openMC
+[20:24:22] [Client thread/INFO]: (Session ID is token:0:openMC)
