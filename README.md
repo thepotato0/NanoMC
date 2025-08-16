@@ -1,7 +1,9 @@
 # 🟩 NanoMC
 
 >[!NOTE]
->NanoMC is __NOT STABLE__ and **NOT MEANT FOR MAIN USAGE**. This is just made for USBs and people who travel alot/use for school computers. Educational purposes only, users are responsible for their own usage.
+>NanoMC is __NOT STABLE__ and **NOT MEANT FOR MAIN USAGE**.  
+>This is just made for USBs and people who travel a lot / use for school computers.  
+>Educational purposes only – users are responsible for their own usage.
 
 NanoMC is basically **Minecraft 1.8.9 but tiny and portable**.  
 It’s less than **300MB**, runs from a USB stick, and doesn’t need any setup.  
@@ -17,24 +19,27 @@ Perfect if you just want to hop into 1.8.9 PvP anywhere without waiting for inst
 
 ---
 
-## 🚀 How to use
-1. Download this repo (Code → Download ZIP) or clone it.  
-2. Extract it wherever (Desktop, USB, anywhere).  
-3. Run **`OpenMC.bat`**  
-4. Type in the username you want.  
-5. That’s it – Minecraft 1.8.9 will start.
+## 💻 Requirements
+- 🖥️ Windows (tested on Windows 10)  
+- 💾 At least **500 MB** of free storage  
+- 🧠 At least **3 GB RAM**  
+
+---
+
+## 📥 How to Install
+1. Go to the [NanoMC GitHub repo](https://github.com/skidsploiter/NanoMC).  
+2. Click **Code → Download ZIP**.  
+3. Extract the ZIP anywhere (Desktop, USB drive, etc).  
+4. Open **`OpenMC.bat`**.  
+5. Enter your username when asked.  
+6. Minecraft 1.8.9 should launch 🚀  
+
+---
+
+## 🚀 How to Use
+- Every time you want to play, just run **`OpenMC.bat`** again.  
+- Your worlds, resourcepacks, and settings are saved inside the `mcdata/` folder, so you can carry them around.  
 
 ---
 
 ## 📂 What’s inside?
-NanoMC/<br>
-├── OpenMC.bat ← start the game from here <br>
-├── mcdata/Java/ ← lightweight java runtime <br>
-└── mcdata/ ← saves, resourcepacks, options <br>
-
----
-
-## ⚠️ Notes
-- This is a **portable build**, not an official launcher.  
-- Support Mojang/Microsoft if you can – this project is just a minimal, portable setup.  
-- Tested mainly for PvP use. Performance may vary by system.
