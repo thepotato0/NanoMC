@@ -1,6 +1,6 @@
 # 🟩 NanoMC
 
->[!NOTICE]
+>[!NOTE]
 >NanoMC is __NOT STABLE__ and **NOT MEANT FOR MAIN USAGE**. This is just made for USBs and people who travel alot/use for school computers. Educational purposes only, users are responsible for their own usage.
 
 NanoMC is basically **Minecraft 1.8.9 but tiny and portable**.  
