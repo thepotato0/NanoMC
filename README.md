@@ -1,4 +1,5 @@
-# NanoMC
+# NanoMC - It's Minecraft, but Tiny.
+to all the dumbasses saying "eaglercraft is lighter", eagler is web-based, this is native java
 
 [Under MIT License - free to copy and edit.](https://github.com/skidsploiter/NanoMC/blob/main/LICENSE)
 
