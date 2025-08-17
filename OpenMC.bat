@@ -1,6 +1,5 @@
 @echo off
 title Minecraft Launcher
-mode con cols=150 lines=25
 color 02
 
 echo Welcome to NanoMC!
