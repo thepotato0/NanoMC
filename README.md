@@ -3,6 +3,7 @@
 
 [MIT License – free to use and edit](https://github.com/skidsploiter/NanoMC/blob/main/LICENSE)  
 
+>[!WARNING]
 > ⚠️ **Heads up!**  
 > NanoMC is **experimental** and not meant for long-term/main usage.  
 > It was built for convenience — like running Minecraft from a USB stick, using school computers, or just keeping a lightweight version handy.  
