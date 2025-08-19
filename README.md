@@ -1,5 +1,6 @@
 # NanoMC
 ~ **Minecraft 1.8.9, but portable and tiny.** ~  
+## Please star the repo if you like this! Be free to open pull requests too!
 
 [MIT License – free to use and edit](https://github.com/skidsploiter/NanoMC/blob/main/LICENSE)  
 
@@ -14,6 +15,7 @@
 ## [?] What is NanoMC?
 NanoMC is a **portable, no-install build of Minecraft 1.8.9**.  
 It packs everything into a folder less than **300MB**, runs from anywhere, and doesn’t require Java or setup.  
+Remember, Eaglercraft is NOT native java, it's WebGL! This runs on native java x64!
 
 Basically: *grab it, plug in, double-click, and play.* Perfect if you love **quick PvP sessions on the go.**  
 
