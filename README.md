@@ -1,6 +1,5 @@
->[!NOTE]
->NanoMC has moved over to codeberg due to copyright issues! Click here to find the new one: [new NanoMC](https://codeberg.org/skidsploiter/NanoMC)
 # NanoMC
+ok im not moving to codeberg lol
 ~ **Minecraft 1.8.9, but portable and tiny.** ~  
 ## Please star the repo if you like this! Be free to open pull requests too!
 
