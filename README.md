@@ -18,6 +18,7 @@ It packs everything into a folder less than **300MB**, runs from anywhere, and d
 Remember, Eaglercraft is NOT native java, it's WebGL! This runs on native java x64!
 
 Basically: *grab it, plug in, double-click, and play.* Perfect if you love **quick PvP sessions on the go.**  
+<img width="645" height="176" alt="image" src="https://github.com/user-attachments/assets/748dfd9a-0013-471b-b148-3f44f2a902cb" />
 
 ---
 
